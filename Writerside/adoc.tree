@@ -10,13 +10,13 @@
     <toc-element topic="API-quickstart.md"/>
     <toc-element topic="API-reference.md">
 <!--        <toc-element topic="Pet.md">-->
-        </toc-element>
         <toc-element toc-title="Organizations">
             <toc-element topic="overview.md"/>
             <toc-element topic="create-org.md"/>
             <toc-element topic="update-org.md"/>
         </toc-element>
-        <toc-element toc-title="User">
+    </toc-element>
+    <toc-element toc-title="User">
         </toc-element>
     <toc-element topic="Changes.md"/>
 </instance-profile>
