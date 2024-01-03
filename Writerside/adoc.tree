@@ -15,19 +15,18 @@
             <toc-element topic="create-org.md"/>
             <toc-element topic="update-org.md"/>
         </toc-element>
-    </toc-element>
-    <toc-element toc-title="User Management">
-        <toc-element topic="users.md"/>
-
-    </toc-element>
-    <toc-element toc-title="Team Management">
-        <toc-element topic="team-api.md"/>
-    </toc-element>
-    <toc-element toc-title="Projects">
-        <toc-element topic="projects.md"/>
-    </toc-element>
-    <toc-element toc-title="MaxTranslate">
-        <toc-element topic="MaxTranslateInfo.md"/>
+        <toc-element toc-title="User Management">
+            <toc-element topic="users.md"/>
+        </toc-element>
+        <toc-element toc-title="Team Management">
+            <toc-element topic="team-api.md"/>
+        </toc-element>
+        <toc-element toc-title="MaxTranslate">
+            <toc-element topic="MaxTranslateInfo.md"/>
+        </toc-element>
+        <toc-element toc-title="Projects">
+            <toc-element topic="projects.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Changes.md"/>
 </instance-profile>
