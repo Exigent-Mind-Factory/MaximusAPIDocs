@@ -8,18 +8,18 @@
 > {style="note"}
 
 ### List all Projects
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/projects" method="GET"/>
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/projects" method="GET"/>
 
 
 ### Create a Project
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/projects/" method="POST"/>
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/projects/" method="POST"/>
 
 
 ### Update a Project
 >Note that Many Teams can be assigned to Many Projects
 > {style="tip"}
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/projects/{id}/" method="PATCH">
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/projects/{id}/" method="PUT">
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/projects/{id}/" method="PATCH"/>
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/projects/{id}/" method="PUT"/>
 
 
 ### Delete a Project
@@ -28,4 +28,4 @@
 > all documents associated with the project. 
 > {style="warning"}
 
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/projects/{id}/" method="DELETE"/>
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/projects/{id}/" method="DELETE"/>

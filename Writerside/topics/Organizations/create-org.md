@@ -4,4 +4,4 @@
 > Giving us full control of on-boarding experience
 > {style="warning"}
 > 
-<api-endpoint openapi-path="../../maximus_schema.json" endpoint="/organizations/" method="POST"/>
+<api-endpoint openapi-path="../../maximus_schema_1.10.json" endpoint="/organizations/" method="POST"/>
